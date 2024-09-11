@@ -12,6 +12,21 @@
 
 - 🌱 I’m currently Studying **Computer Science at Queens College**
 - 🌱 I’m also learning **Full Stack Web Development**
+<hr>
+
+
+<div>
+  <a href="https://github.com/GurpreetSingh-21?tab=repositories"> 🤖 MY PROJECTS or REPOSITORIES</a>
+
+  <br>
+  <br>
+  <br>
+  <br>
+
+<img src="https://imgur.com/VLu4lWE.png" alt="Description of image" />
+</div>
+
+
 
 <hr>
 
