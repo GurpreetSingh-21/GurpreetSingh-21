@@ -16,14 +16,14 @@
 
 
 <div>
-  <a href="https://github.com/GurpreetSingh-21?tab=repositories"> 🤖 MY PROJECTS or REPOSITORIES</a>
+  <a href="https://github.com/GurpreetSingh-21?tab=repositories"> 🤖 MY REPOSITORIES</a>
 
   <br>
   <br>
   <br>
   <br>
 
-<img src="https://imgur.com/VLu4lWE.png" alt="Description of image" />
+<img src="https://imgur.com/0c8mhrH.png" alt="Description of image" />
 </div>
 
 
