@@ -16,7 +16,9 @@
 
 
 <div>
-  <a href="https://github.com/GurpreetSingh-21?tab=repositories"> 🤖 MY REPOSITORIES</a>
+  <a href="https://github.com/GurpreetSingh-21?tab=repositories"> 🤖 MY REPOSITORIES</a> <br>
+  <br>
+  <br><p>(Click on MY repositories to explore them.)</p>
 
   <br>
   <br>
