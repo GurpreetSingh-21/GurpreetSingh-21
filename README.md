@@ -25,7 +25,7 @@
   <br>
   <br>
 
-<img src="https://imgur.com/0c8mhrH.png" alt="Description of image" />
+<img src="https://imgur.com/rRqYG9v.png"  alt="Description of image" /> 
 </div>
 
 
