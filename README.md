@@ -116,7 +116,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gurpreetsingh-21&theme=radical" alt="GitHub Streak Stats" width="450"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gurpreetsingh-21" alt="GitHub Streak Stats" width="450"/>
 </p>
 
 <hr/>
