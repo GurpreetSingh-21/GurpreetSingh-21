@@ -8,7 +8,6 @@
 <h3 align="center">A Software Engineer from New York, crafting digital experiences and bringing ideas to life.</h3>
 
 
-<hr>
 
 
 
