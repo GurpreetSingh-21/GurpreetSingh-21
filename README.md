@@ -14,10 +14,10 @@
 
 
 <br/>
-- 🚀 Pursuing **Computer Science at Queens College**, diving deep into algorithms and problem-solving.
+- 🚀 Pursuing Computer Science at Queens College, diving deep into algorithms and problem-solving.
   <br/>
   <br/>
-- 💻 Exploring the world of **Full-Stack Web Development**, building intuitive and dynamic applications.
+- 💻 Exploring the world of Full-Stack Web Development, building intuitive and dynamic applications.
 
 <hr>
 <br/>
