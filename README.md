@@ -39,7 +39,7 @@
 <h3 align="center">🤝 Let's Connect!</h3>
 <br/>
 <p align="center">
-  <a href="https://linkedin.com/in/gurpreet-singh" target="_blank">
+  <a href="https://www.linkedin.com/in/gurpreet-singh-21-/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Gurpreet Singh LinkedIn" height="40" width="50" />
   </a>
   &nbsp;&nbsp;
