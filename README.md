@@ -4,15 +4,9 @@
 
 
 
-<h2 align="center">Hi there! 👋 I'm Gurpreet Singh</h2>
+<h2 align="center">Hey, Gurpreet Here 👋</h2>
 <h3 align="center">A Software Engineer from New York, crafting digital experiences and bringing ideas to life.</h3>
-
-
-
 <hr>
-
-
-
 <br/>
 - 🚀 Pursuing Computer Science at Queens College, diving deep into algorithms and problem-solving.
   <br/>
