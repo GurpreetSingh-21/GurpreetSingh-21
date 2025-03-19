@@ -21,7 +21,7 @@
     <strong>🤖 MY REPOSITORIES</strong>
   </a>
   <br/><br/>
-  <p>(Click on 'MY REPOSITORIES' to explore them.)</p>
+  <p>(Click on 'MY REPOSITORIES' to explore them)</p>
 </div>
   <br>
 <img src="https://imgur.com/uqNoaZf.png"  alt="Description of image" /> 
